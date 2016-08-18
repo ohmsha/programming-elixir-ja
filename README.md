@@ -31,3 +31,7 @@ by 酒匂 寛（ITコンサルタント・翻訳家（オブジェクト指向�
 >  あと、第13章のGithubからイシューリストを読み込んで一覧表示するプロジェクトの作成方法の説明は良い。こういうのはプラグデイブの面目躍如だ。 
 
 by arton さん / [プログラミングElixir](https://www.artonx.org/diary/20160817.html) より
+
+> ElixirはErlangが作ってきたエコシステムの可能性を大きく広げたことは間違いないと私は確信している。そのことをずっと前から見抜いていたDave Thomasについては、さすがとしかいいようがない。
+
+by 力武健次さん / [ 祝「プログラミングElixir」刊行 ](https://heikou-konton.blogspot.jp/2016/08/programming-elixir-ja.html) より。
