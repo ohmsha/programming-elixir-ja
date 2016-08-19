@@ -35,3 +35,7 @@ by arton さん / [プログラミングElixir](https://www.artonx.org/diary/201
 > ElixirはErlangが作ってきたエコシステムの可能性を大きく広げたことは間違いないと私は確信している。そのことをずっと前から見抜いていたDave Thomasについては、さすがとしかいいようがない。
 
 by 力武健次さん / [ 祝「プログラミングElixir」刊行 ](https://heikou-konton.blogspot.jp/2016/08/programming-elixir-ja.html) より。
+
+> これからElixirを勉強したいという人には、本書はぜひとも読んでいただきたい入門書です。特に、「1章から3章まで」と「第II部」はよく書かれていると思います。
+
+by @Joe_noh さん / [ 恵贈御礼！プログラミングElixir ](http://tech.pepabo.com/2016/08/19/programming-elixir/) より。
