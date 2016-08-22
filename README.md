@@ -48,3 +48,6 @@ by @Joe_noh さん / [ 恵贈御礼！プログラミングElixir ](http://tech.
 
 by 松尾さん / [「プログラミングElixir」から分散系の世界へ踏み込もう](http://techlife.cookpad.com/entry/2016/08/19/170726)
 
+> ということで、第 I 部が個人的には一番エキサイティングでした。Elixir に興味がなくても Ruby とオレオレ言語設計に興味がある人（誰？）は是非読むといいと思います。
+
+by 遠藤さん / [『プログラミング Elixir』を読んで](http://d.hatena.ne.jp/ku-ma-me/20160822/p2)
