@@ -7,7 +7,7 @@ Dave Thomas著、笹田耕一・鳥井雪共訳『プログラミングElixir』
 * 原著サイトはこちら
   * [Programming Elixir 1.2](https://pragprog.com/book/elixir12/programming-elixir-1-2)
   * [ソースコードのダウンロード（コメント以外、日本語版とほぼ同じです）](https://pragprog.com/titles/elixir12/source_code)
-  * [原著 Eratta](https://pragprog.com/titles/elixir12/errata)
+  * [原著 Errata](https://pragprog.com/titles/elixir12/errata)
   * 原著は次の版 [Programming Elixir 1.3](https://pragprog.com/book/elixir13/programming-elixir-1-3) がリリースされています（β版）。多分、あんまり変わりません。
 
 ## 推薦のことば
